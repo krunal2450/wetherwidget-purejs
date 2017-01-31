@@ -44,15 +44,15 @@ body{
 
 .condImg[code="1"], .condImg[code="2"], .condImg[code="3"], .condImg[code="4"]{
 	background-position: -94px -185px;
-    background-image: url(../img/icons2.jpg);
+    background-image: url(https://raw.githubusercontent.com/krunal2450/weatherwidget/master/img/icons2.jpg);
 }
 .condImg[code="5"], .condImg[code="6"], .condImg[code="7"], .condImg[code="8"], .condImg[code="9"].condImg[code="10"], .condImg[code="35"]{
     background-position: -1110px -446px;
-	background-image: url(../img/icons2.jpg);
+	background-image: url(https://raw.githubusercontent.com/krunal2450/weatherwidget/master/img/icons2.jpg);
 }
 .condImg[code="11"], .condImg[code="12"]{
     background-position: -95px -258px;
-    background-image: url(../img/icons2.jpg);
+    background-image: url(https://raw.githubusercontent.com/krunal2450/weatherwidget/master/img/icons2.jpg);
 }
 
 .condImg[code="13"],
@@ -69,12 +69,12 @@ body{
 .condImg[code="24"],
 .condImg[code="25"]{
 	background-position: -178px -185px;
-    background-image: url(../img/icons2.jpg);
+    background-image: url(https://raw.githubusercontent.com/krunal2450/weatherwidget/master/img/icons2.jpg);
 }
 
 .condImg[code="26"]{
 	background-position: -94px -32px;
-	background-image: url(../img/icons2.jpg);
+	background-image: url(https://raw.githubusercontent.com/krunal2450/weatherwidget/master/img/icons2.jpg);
 }
 
 .condImg[code="27"],
@@ -82,26 +82,26 @@ body{
 .condImg[code="29"],
 .condImg[code="30"]{
 	background-position: -170px -36px;
-	background-image: url(../img/icons2.jpg);
+	background-image: url(https://raw.githubusercontent.com/krunal2450/weatherwidget/master/img/icons2.jpg);
 }
 .condImg[code="31"], .condImg[code="33"]{
 	background-position: -172px -250px;
-	background-image: url(../img/icons2.jpg);
+	background-image: url(https://raw.githubusercontent.com/krunal2450/weatherwidget/master/img/icons2.jpg);
 }
 .condImg[code="32"], .condImg[code="34"]{
 	background-position: -22px -32px;
-	background-image: url(../img/icons2.jpg);
+	background-image: url(https://raw.githubusercontent.com/krunal2450/weatherwidget/master/img/icons2.jpg);
 }
 .condImg[code="36"]{
     background-position: -96px -259px;
-	background-image: url(../img/icons2.jpg);
+	background-image: url(https://raw.githubusercontent.com/krunal2450/weatherwidget/master/img/icons2.jpg);
 }
 .condImg[code="37"],
 .condImg[code="38"],
 .condImg[code="39"],
 .condImg[code="40"]{
 	background-position: -246px -255px;
-	background-image: url(../img/icons2.jpg);
+	background-image: url(https://raw.githubusercontent.com/krunal2450/weatherwidget/master/img/icons2.jpg);
 }
 .condImg[code="40"],
 .condImg[code="41"],
@@ -112,18 +112,18 @@ body{
 .condImg[code="46"],
 .condImg[code="47"]{
 	background-position: -362px -112px;
-	background-image: url(../img/icons2.jpg);
+	background-image: url(https://raw.githubusercontent.com/krunal2450/weatherwidget/master/img/icons2.jpg);
 }
 .weather .spinner{
 	height: 20px;
     width: 20px;
-    background: url(../img/spinner.gif) no-repeat;
+    background: url(https://raw.githubusercontent.com/krunal2450/weatherwidget/master/img/spinner.gif) no-repeat;
     display: none;
     margin: 0 auto;
 }
 
 .weather .refresh{
-    background: url(../img/refresh.png);
+    background: url(https://raw.githubusercontent.com/krunal2450/weatherwidget/master/img/refresh.png);
     height: 24px;
     width: 24px;
     border: none;
